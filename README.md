@@ -13,5 +13,9 @@ This Video showcases the features of this App.
 * Linear Polarization
 * Elliptical Polarization
 
-https://github.com/moienr/wave-AR/assets/104892937/4eb8d3f0-b3a4-4c02-b8d8-d899c2b7d0bd
 
+
+https://github.com/moienr/wave-AR/assets/104892937/ec077c55-08ac-4254-b3a0-411b8a24215e
+
+
+[Demo gif](showcase.gif)
