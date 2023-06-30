@@ -8,9 +8,14 @@ Developed in Unity3D with Vofuria SDK.
 
 ## PLEASE WAIT FOR THE VIDEO TO LOAD...
 
-This Video show cases the features of this App.
+This Video showcases the features of this App.
 * Circular Polarization - RH/LH
 * Linear Polarization
-* Eliptical Polarization
+* Elliptical Polarization
 
-![ShowCaseGIF](showcase.gif)
+
+
+https://github.com/moienr/wave-AR/assets/104892937/ec077c55-08ac-4254-b3a0-411b8a24215e
+
+
+[Demo gif](showcase.gif)
